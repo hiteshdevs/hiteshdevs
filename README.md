@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript DOM**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Projects**
 
 - 👨‍💻 All of my projects are available at [https://hiteshdevs.w3spaces.com/](https://hiteshdevs.w3spaces.com/)
 
