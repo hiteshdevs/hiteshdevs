@@ -3,7 +3,7 @@
 <img align="right" style="border-radius: 10%;" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
-- 🔭 A 3rd year undergraduate at **G H Raisoni institute of engineering & technology**
+- 🔭 A 3rd year undergraduate at **GHRIETN**
 
 - 🌱 I’m currently learning **JavaScript DOM**
 
