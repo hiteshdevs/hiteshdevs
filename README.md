@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hiteshdevs.w3spaces.com/](https://hiteshdevs.w3spaces.com/)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,TAILWINDCSS, BOOSTRAP**
+- 💬 Ask me about ** HTML,CSS,JAVASCRIPT,TAILWINDCSS, BOOSTRAP **
 
 - 📫 How to reach me **hiteshbhagwatdeveloper@gmail.com**
 
