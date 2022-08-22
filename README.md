@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)](https://hiteshdevs.w3spaces.com/)
+[![MasterHead](https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.gif?cid=82a1493by9assikh9r93upipca13rfh05occxver6wzwd6kf&rid=200w.gif&ct=g)](https://hiteshdevs.w3spaces.com/)
 <h1 align="center">Hi 👋, I'm Hitesh Bhagwat</h1>
 <h3 align="center">A passionate Frontend Developer from India🚩</h3>
 
