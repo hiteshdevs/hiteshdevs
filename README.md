@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.gif?cid=82a1493by9assikh9r93upipca13rfh05occxver6wzwd6kf&rid=200w.gif&ct=g)](https://hiteshdevs.w3spaces.com/)
+[![MasterHead](https://camo.githubusercontent.com/5e1bda2913b082fc4351c67808d11a820a4f07e39f1334f4fea14c817ec3d3ce/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3431363631302f73637265656e73686f74732f343830313130352f636f64696e675f6465736b5f666c61745f766563746f725f75695f75785f64657369676e5f696c6c757374726174696f6e5f6d6f74696f6e5f616e696d6174696f6e5f676966322e676966)](https://hiteshdevs.w3spaces.com/)
 <h1 align="center">Hi 👋, I'm Hitesh Bhagwat</h1>
 <h3 align="center">A passionate Frontend Developer from India🚩</h3>
 
