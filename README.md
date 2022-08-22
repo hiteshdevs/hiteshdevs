@@ -1,4 +1,4 @@
-[![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://hiteshdevs.w3spaces.com/)
+[![MasterHead](https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)](https://hiteshdevs.w3spaces.com/)
 <h1 align="center">Hi 👋, I'm Hitesh Bhagwat</h1>
 <h3 align="center">A passionate Frontend Developer from India🚩</h3>
 
