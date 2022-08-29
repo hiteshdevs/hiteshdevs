@@ -5,7 +5,7 @@
 
 - 🔭 A 3rd year undergraduate at **GHRIETN**
 
-- 🌱 I’m currently learning **NODE-JS**
+- 🌱 I’m currently learning **NODe-JS**
 
 - 👯 I’m looking to collaborate on **Web Based Projects**
 
